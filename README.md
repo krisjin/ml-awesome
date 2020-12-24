@@ -9,6 +9,7 @@
 - [kleveross云原生的机器学习平台](https://github.com/kleveross)
 - [Uber人工智能相关研究资料](https://eng.uber.com/research/?_sft_category=research-ai-ml)
 - [Gallery: A Machine Learning Model Management System at Uber](http://openproceedings.org/2020/conf/edbt/paper_217.pdf)
+- [MISTIQUE: A System to Store and Query Model Intermediates for Model Diagnosis](https://dspace.mit.edu/bitstream/handle/1721.1/121346/sigmod_mistique.pdf?sequence=2&isAllowed=y)
 
 ## MLOps
   
