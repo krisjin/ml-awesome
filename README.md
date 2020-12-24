@@ -32,3 +32,9 @@
 - https://ml-ops.org/
 - https://github.com/microsoft/MLOps/tree/master/model-training
 
+
+## 搜索场景
+
+- https://github.com/Microsoft/Recommenders
+
+
