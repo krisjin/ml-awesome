@@ -1,6 +1,6 @@
 # 机器学习相关资料
 
-机器学习工程化，机器学习平台
+机器学习工程化，机器学习平台，MLOps
 
 
 ## 机器学习平台
@@ -11,9 +11,9 @@
 - [Gallery: A Machine Learning Model Management System at Uber](http://openproceedings.org/2020/conf/edbt/paper_217.pdf)
 - [MISTIQUE: A System to Store and Query Model Intermediates for Model Diagnosis](https://dspace.mit.edu/bitstream/handle/1721.1/121346/sigmod_mistique.pdf?sequence=2&isAllowed=y)
 - [Model Governance: Reducing the Anarchy of Production ML](https://www.usenix.org/system/files/conference/atc18/atc18-sridhar.pdf)
-- []()
-- []()
-- []()
+- [The Missing Piece in Complex Analytics: Low Latency, Scalable Model Management and Serving with Velox](http://www.bailis.org/papers/velox-cidr2015.pdf)
+- [azure机器学习平台文档中文](https://docs.azure.cn/zh-cn/machine-learning/)
+- [Azure Databricks文档](https://docs.microsoft.com/en-us/azure/databricks/scenarios/what-is-azure-databricks)
 - []()
 
 
@@ -22,7 +22,7 @@
 
 
 ## MLOps
-  
+
 - https://github.com/microsoft/MLOps
 - https://github.com/cdfoundation/sig-mlops/blob/master/roadmap/2020/MLOpsRoadmap2020.md
 - https://twimlai.com/blog/
