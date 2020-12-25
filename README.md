@@ -3,6 +3,10 @@
 机器学习工程化，机器学习平台，MLOps
 
 
+
+
+
+
 ## 机器学习平台
 
 - [Uber 机器学习平台 — 米开朗基罗](https://github.com/xitu/gold-miner/blob/master/TODO/meet-michelangelo-ubers-mechine-learning-plantform.md)
@@ -36,6 +40,11 @@
 - https://docs.azure.cn/zh-cn/machine-learning/concept-designer
 - https://ml-ops.org/
 - https://github.com/microsoft/MLOps/tree/master/model-training
+- [10 MLops platforms to manage the machine learning lifecycle](https://www.infoworld.com/article/3572442/10-mlops-platforms-to-manage-the-machine-learning-lifecycle.html)
+
+
+
+
 
 
 ## 搜索场景
