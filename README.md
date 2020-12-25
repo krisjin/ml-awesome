@@ -26,6 +26,16 @@
 - [On Challenges in Machine Learning Model Management](https://assets.amazon.science/7d/38/968b82c745bd9859a79dab0aade8/on-challenges-in-machine-learning-model-management.pdf)
 - [A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning](https://github.com/EthicalML/awesome-production-machine-learning)
 
+- [4-Steps to Machine Learning Model Management](https://community.hitachivantara.com/s/article/4-steps-to-machine-learning-model-management)
+
+- [Machine Learning Pipeline: Architecture of ML Platform in Production](https://www.altexsoft.com/blog/machine-learning-pipeline/)
+
+- [Runway: machine learning model experiment management tool](https://mlsys.org/Conferences/doc/2018/26.pdf)
+
+
+
+
+
 
 
 
