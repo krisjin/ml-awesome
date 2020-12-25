@@ -14,7 +14,7 @@
 - [The Missing Piece in Complex Analytics: Low Latency, Scalable Model Management and Serving with Velox](http://www.bailis.org/papers/velox-cidr2015.pdf)
 - [azure机器学习平台文档中文](https://docs.azure.cn/zh-cn/machine-learning/)
 - [Azure Databricks文档](https://docs.microsoft.com/en-us/azure/databricks/scenarios/what-is-azure-databricks)
-- []()
+- [Machine Learning Model Management in 2020 and Beyond – Everything That You Need to Know](https://neptune.ai/blog/machine-learning-model-management-in-2020-and-beyond)
 
 
 
