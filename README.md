@@ -17,6 +17,10 @@
 - [Machine Learning Model Management in 2020 and Beyond – Everything That You Need to Know](https://neptune.ai/blog/machine-learning-model-management-in-2020-and-beyond)
 - [美团一站式机器学习平台建设实践](https://tech.meituan.com/2020/01/23/meituan-delivery-machine-learning.html)
 - [neptune](https://neptune.ai/blog)
+- [MODELDB: A System for Machine Learning Model Management](https://www-cs.stanford.edu/~matei/papers/2016/hilda_modeldb.pdf)
+- [Frameworks for Machine Learning Model Management](https://www.inovex.de/blog/machine-learning-model-management/)
+- [On Challenges in Machine Learning Model Management](https://assets.amazon.science/7d/38/968b82c745bd9859a79dab0aade8/on-challenges-in-machine-learning-model-management.pdf)
+- [A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning](https://github.com/EthicalML/awesome-production-machine-learning)
 
 
 
