@@ -54,6 +54,7 @@
 
 - [grape up mlops](https://grapeup.com/services/mlops/)
 - [MLOps 101: The Foundation for Your AI Strategy](https://www.datarobot.com/mlops-101/)
+-[Machine Learning Life-Cycle](https://sites.usp.br/datascience/wp-content/uploads/sites/449/2019/08/SPSAS_Machine_Learning_Life-Cycle_Fabio_Porto.pdf)
 
 
 
