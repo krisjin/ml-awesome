@@ -53,7 +53,7 @@
 - [10 MLops platforms to manage the machine learning lifecycle](https://www.infoworld.com/article/3572442/10-mlops-platforms-to-manage-the-machine-learning-lifecycle.html)
 
 - [grape up mlops](https://grapeup.com/services/mlops/)
-
+- [MLOps 101: The Foundation for Your AI Strategy](https://www.datarobot.com/mlops-101/)
 
 
 
