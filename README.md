@@ -32,7 +32,7 @@
 
 - [Runway: machine learning model experiment management tool](https://mlsys.org/Conferences/doc/2018/26.pdf)
 
-
+- 
 
 
 
@@ -52,7 +52,7 @@
 - https://github.com/microsoft/MLOps/tree/master/model-training
 - [10 MLops platforms to manage the machine learning lifecycle](https://www.infoworld.com/article/3572442/10-mlops-platforms-to-manage-the-machine-learning-lifecycle.html)
 
-
+- [grape up mlops](https://grapeup.com/services/mlops/)
 
 
 
