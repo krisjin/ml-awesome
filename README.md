@@ -34,7 +34,7 @@
 
 - [解决部署AI系统的最后一公里问题](https://zhuanlan.zhihu.com/p/83159479)
 
-
+- [Packaging and Sharing Machine Learning Models via the Acumos AI Open Platform](https://arxiv.org/pdf/1810.07159.pdf)
 
 
 
