@@ -37,6 +37,7 @@
 - [Packaging and Sharing Machine Learning Models via the Acumos AI Open Platform](https://arxiv.org/pdf/1810.07159.pdf)
 - [acumos](https://github.com/acumos)
 - [Model Governance: Reducing the Anarchy of Production ML](https://www.usenix.org/system/files/conference/atc18/atc18-sridhar.pdf)
+- [Litz: Elastic Framework for High-Performance Distributed Machine Learning](https://www.usenix.org/system/files/conference/atc18/atc18-qiao.pdf)
 
 
 
