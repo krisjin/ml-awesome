@@ -39,6 +39,7 @@
 - [Model Governance: Reducing the Anarchy of Production ML](https://www.usenix.org/system/files/conference/atc18/atc18-sridhar.pdf)
 - [Litz: Elastic Framework for High-Performance Distributed Machine Learning](https://www.usenix.org/system/files/conference/atc18/atc18-qiao.pdf)
 - [m-loop](https://m-loop.readthedocs.io/en/latest/)
+- [acumos document](https://docs.acumos.org/en/latest/index.html)
 
 
 
